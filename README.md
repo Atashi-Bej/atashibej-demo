@@ -154,9 +154,9 @@ My interests include:
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL_ADDRESS
-- 🐙 GitHub: [My GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/atashi-bej-896b62308)
+- 📧 Email:atashibej3@gmail.com
+- 🐙 GitHub: [My GitHub Profile](https://github.com/Atashi-Bej)
 
 ---
 
