@@ -1,4 +1,4 @@
-
+```markdown
 # Hi, I'm Atashi Bej 👋
 
 ### CSE Student | GATE 2026 Qualified | Software Development, AI & Cybersecurity
@@ -155,7 +155,7 @@ My interests include:
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/atashi-bej-896b62308)
-- 📧 Email:atashibej3@gmail.com
+- 📧 Email: [atashibej3@gmail.com](mailto:atashibej3@gmail.com)
 - 🐙 GitHub: [My GitHub Profile](https://github.com/Atashi-Bej)
 
 ---
@@ -171,3 +171,4 @@ My interests include:
 I am always interested in learning, building projects, and connecting with fellow developers.
 
 **Keep Learning | Keep Building | Keep Growing 🚀**
+```
